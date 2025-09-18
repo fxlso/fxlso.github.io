@@ -6,9 +6,9 @@ Educe.club is a personal insights platform designed to help lifelong learners ca
 Educe is currently a web application leveraging React and an AWS stack, supporting basic insight creation, classification, and sharing. Educe currently has an active beta user base which has generated feedback creating a prioritized feature roadmap. During this year,  we hope to improve the user experience, enhance insight creation (with source linking), expand public vs. private sharing, and launch a non-authenticated landing page showcasing trending insights. Other major initiatives include a “reader view” for playlist-like interaction, integrations with platforms such as X (f.k.a. Twitter), an analytics dashboard, and AI-driven insight suggestions.
 
 ### Project Sponsor & Coach
-Sponsoring Organization: Educe.club
-Sponsors: Michael Thaney, Tony Kunkel
-Coach: Mark Wilson 
+- Sponsoring Organization: Educe.club
+- Sponsors: Michael Thaney, Tony Kunkel
+- Coach: Mark Wilson 
 
 ### Team & Roles
 Zhiwei: Scrum master
