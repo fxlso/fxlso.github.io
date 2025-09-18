@@ -11,15 +11,15 @@ Educe is currently a web application leveraging React and an AWS stack, supporti
 - Coach: Mark Wilson 
 
 ### Team & Roles
-Zhiwei: Scrum master
+Zhiwei: Scrum Master
 
 Paolo: DevOps lead
 
 Bobby: Backend lead
 
-Charlie  UX lead
+Charlie: UX lead & Scribe
 
-Alex: Frontend lead
+Alex: Frontend Lead & Sponsor Communication Lead
 
 ### Relevant Information
 - [Timesheet](https://docs.google.com/spreadsheets/d/1T8kjJc9D0QfOyf_gvF43vHdleeCPpyVCZzuDMyZkI4Q/edit?gid=0#gid=0)
