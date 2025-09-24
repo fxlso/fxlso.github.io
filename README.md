@@ -30,5 +30,6 @@ Alex: Frontend Lead & Sponsor Communication Lead
 
 ### Relevant Information
 
--   [Timesheet](https://docs.google.com/spreadsheets/d/1T8kjJc9D0QfOyf_gvF43vHdleeCPpyVCZzuDMyZkI4Q/edit?gid=0#gid=0)
--   [Weekly 4-ups](https://docs.google.com/document/d/1zpXVrigFyiF5ff96H7tVyYy62LjuYiks0a7SCmhqUsI/edit?tab=t.0)
+- [Timesheet](https://docs.google.com/spreadsheets/d/1T8kjJc9D0QfOyf_gvF43vHdleeCPpyVCZzuDMyZkI4Q/edit?gid=0#gid=0)
+- [Weekly 4-ups](https://docs.google.com/document/d/1zpXVrigFyiF5ff96H7tVyYy62LjuYiks0a7SCmhqUsI/edit?tab=t.0)
+- [Project Plan](https://docs.google.com/document/d/1VXg7gkn3xBy0V-PXOlvh0E57D9M6QQBdXZRPV44nG4w/edit?tab=t.0)
